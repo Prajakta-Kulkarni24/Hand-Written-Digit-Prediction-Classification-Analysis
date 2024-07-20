@@ -1,2 +1,2 @@
 # YBI foundation
-YBI Foundation internship:Hands on Projects
+YBI Foundation internship: Hands on Project
